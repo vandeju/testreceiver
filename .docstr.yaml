@@ -1,0 +1,5 @@
+paths: # list or string
+  - .
+exclude: .*/app/ReBatchDOCTR
+skip_init: True # Boolean
+fail_under: 0 # int 

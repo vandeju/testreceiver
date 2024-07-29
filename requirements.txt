@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic==2.7.1
+pymupdf==1.24.5
+jsonlines==4.0.0
+python-multipart==0.0.9
+numpy
+pandas
+requests
